@@ -27,5 +27,3 @@ print(f"10 digit ISBN number: {user_account}{checksum_digit}")
 
 
 
-
-
